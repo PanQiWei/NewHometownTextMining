@@ -1,0 +1,7 @@
+pandas
+pypinyin
+jieba
+hanlp
+paddlepaddle
+xlrd==1.2.0
+tqdm
